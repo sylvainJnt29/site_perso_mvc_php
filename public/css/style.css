@@ -1,0 +1,27 @@
+/* #mepBitcoin{ 
+    display: flex;
+    flex-direction: column;
+    padding-left: 15%;
+    padding-bottom:10%;
+    text-align: center;
+}
+
+h1 {
+  color: #ecbc1e;
+}
+#price {
+  font-size: 8em;
+}
+fieldset{
+  display: flex;
+  margin: 30%;
+  background-color:rgba(35, 124, 165, 0.664) ;
+  justify-content: center;
+    flex-direction: column;
+    padding-left: 15%;
+    padding-bottom:10%;
+    text-align: center;
+}
+p{
+  font-size: 2em;
+} */
